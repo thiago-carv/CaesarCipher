@@ -12,9 +12,9 @@ Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW
 
 ***
 
-###### May 6th, 2020
-Current program has a hardcoded offset (rotation) of 12.
+#### May 6th, 2020
+Current program has a hardcoded offset (rotation) of 12.   
 Therefore, the cipher alphabet is: MNOPQRSTUVWXYZABCDEFGHIJKL
 
-The message is hardcoded to be "how are you doing today".
+The message is hardcoded to be "how are you doing today".   
 Uppercase and special character handling has not been implemented.
