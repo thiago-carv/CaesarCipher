@@ -18,6 +18,9 @@ class CaesarsCipherTest {
 		assertEquals("", caesarsCipherTest.cipher("", 12));
 	}
 	
+	/**
+	 * Example of a failing test
+	 */
 //	@Test
 //	void testCipheredMessageWithOffsetOf11() {
 //		assertEquals("tai mdq kag pauzs fapmk", caesarsCipherTest.cipher("how are you doing", 11));
